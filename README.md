@@ -15,5 +15,17 @@ Desafios do Kaggle para estudos
    
 	*Link para o Dataset no Kaggle [link](https://www.kaggle.com/datasets/new-york-city/nyc-property-sales/data)
 
+- [x] [Diabetes](https://github.com/ThiagoAoki88/Kaggle/tree/main/Diabetes)<br />
+      - Utilizando métodos estatísticos e ferramentas de visualização de dados, nossa meta principal é não apenas identificar os fatores mais impactantes relacionados à 
+      presença de diabetes, mas também fornecer insights práticos que possam embasar estratégias de prevenção e intervenção.<br />
+   
+	*Link para o Dataset no Kaggle [link](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+
+- [x] [Credicard Fraud](https://github.com/ThiagoAoki88/Kaggle/tree/main/Credicard%20Fraud)<br />
+      - A análise exploratória do dataset de fraudes em cartões de crédito visa compreender e extrair informações valiosas a partir de dados que representam transações 
+      financeiras.<br />
+   
+	*Link para o Dataset no Kaggle [link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 
 	
